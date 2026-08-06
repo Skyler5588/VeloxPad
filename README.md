@@ -1,5 +1,5 @@
 # VeloxPad
-PCB
+**PCB**
 <img width="1480" height="1237" alt="image" src="https://github.com/user-attachments/assets/48c187e8-6b60-4261-b760-ed6b85c94a54" />
 
 SCHETCHER
