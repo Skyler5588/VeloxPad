@@ -24,14 +24,14 @@ This is my PCB, made in KiCad.
 # BOM
 Here should be everything you need to make this hackpad
 
-    8x Cherry MX Switches
-    8x DSA Keycaps
-    5x M3x5x4 Heatset inserts
-    4x M3x16mm SHCS Bolts
-    1X M3x6mm SHCS Bolts
-    8x 1N4148 DO-35 Diodes.
-    8x WS2812B LEDs
-    1x 0.91" 128x32 OLED Display
-    1x EC11 Rotary Encoder
-    1x XIAO RP2040
-    1x Case (3-4 printed parts)
+   8x Cherry MX Switches
+   8x DSA Keycaps     
+   5x M3x5x4 Heatset inserts     
+   4x M3x16mm SHCS Bolts     
+   1X M3x6mm SHCS Bolts     
+   8x 1N4148 DO-35 Diodes.     
+   8x WS2812B LEDs     
+   1x 0.91" 128x32 OLED Display     
+   1x EC11 Rotary Encoder     
+   1x XIAO RP2040     
+   1x Case (3-4 printed parts)
