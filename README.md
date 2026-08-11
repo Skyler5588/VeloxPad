@@ -21,3 +21,17 @@ This is my PCB, made in KiCad.
 <img width="1480" height="1237" alt="image" src="https://github.com/user-attachments/assets/48c187e8-6b60-4261-b760-ed6b85c94a54" />
 <img width="1780" height="1267" alt="image" src="https://github.com/user-attachments/assets/ab488d1f-4c98-4a05-9ad5-ecee55caa1d6" />
 
+# BOM
+Here should be everything you need to make this hackpad
+
+    8x Cherry MX Switches
+    8x DSA Keycaps
+    5x M3x5x4 Heatset inserts
+    4x M3x16mm SHCS Bolts
+    1X M3x6mm SHCS Bolts
+    8x 1N4148 DO-35 Diodes.
+    8x WS2812B LEDs
+    1x 0.91" 128x32 OLED Display
+    1x EC11 Rotary Encoder
+    1x XIAO RP2040
+    1x Case (3-4 printed parts)
