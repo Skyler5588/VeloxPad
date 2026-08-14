@@ -15,7 +15,7 @@ The case is printed in 3 separate pieces.
 # Assembly
 <img width="1152" height="1062" alt="image" src="https://github.com/user-attachments/assets/3e6c8314-a099-4251-86d9-feec8ab1ea37" />
 
-The bottom part will contain 1 heat-set insert. The mounting hole in the PCB aligns with the heat-set insert in the bottom part. This way the PCB will be secure.
+The bottom part will contain 1 heat-set insert. The mounting hole in the PCB aligns with the heat-set insert in the bottom part. This way the PCB will be secured in place.
 
 <img width="746" height="661" alt="image" src="https://github.com/user-attachments/assets/b301980c-7270-495a-8d15-59de22688d18" />
 
